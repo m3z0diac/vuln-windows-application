@@ -10,3 +10,6 @@
 
 ### Command Injection:
 ##### Command injection is an attack in which the goal is execution of arbitrary commands on the host operating system via a vulnerable application. Command injection attacks are possible when an application passes unsafe user supplied data to a system shell. in this program the source code is a wrapper around the windowa commanda ``` del ``` which delete a file that in input, or ``` type ``` which prints the contents ofa file to standard output or ``` dir ``` and so on ...
+
+## DEMO
+![alt](https://raw.githubusercontent.com/hamza07-w/vuln-windows-application/main/vwac.mp4)
